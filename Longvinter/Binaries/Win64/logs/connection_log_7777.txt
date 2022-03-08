@@ -30,3 +30,83 @@
 [2022-03-07 17:41:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 155.133.253.50:27019, UDP)
 [2022-03-07 17:41:01] [1,2] ConnectionCompleted() (162.254.195.66:27023, UDP) local address (0.0.0.0:7778)
 [2022-03-07 17:41:01] [1,2] RecvMsgClientLogOnResponse() : [A:1:2960902144:19769] 'OK'
+
+
+[2022-03-07 19:15:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:15:36] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:15:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:15:36] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:15:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:15:36] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:15:36] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2022-03-07 19:15:36] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2022-03-07 19:15:39] [0,0] SetSteamID( [A:1:0:0] )
+[2022-03-07 19:15:39] [0,0] Server says 50% of connections should be websockets, we rolled 1 - using WebSockets as default.
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27032) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27038) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27028) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm1-dfw1.cm.steampowered.com:27034) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27028) results: 67.2741ms + load 30.0000
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm1-dfw1.cm.steampowered.com:443) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27032) results: 71.8286ms + load 30.0000
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27038) results: 69.5753ms + load 30.0000
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm1-dfw1.cm.steampowered.com:27036) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:443) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm1-dfw1.cm.steampowered.com:27034) results: 65.0997ms + load 27.0000
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27038) starting...
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:443) results: 44.7333ms + load 42.0000
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm6-lax1.cm.steampowered.com:443)
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27038) results: 75.2997ms + load 32.0000
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm1-dfw1.cm.steampowered.com:27036) results: 70.8890ms + load 29.0000
+[2022-03-07 19:15:39] [0,0] PingWebSocketCM() (cm1-dfw1.cm.steampowered.com:443) results: 73.1912ms + load 32.0000
+[2022-03-07 19:15:39] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm6-lax1.cm.steampowered.com:443, WebSocket)
+[2022-03-07 19:15:39] [1,3] ConnectionCompleted() (162.254.195.66:443, WebSocket) local address (192.168.1.5:63674)
+[2022-03-07 19:15:39] [1,3] RecvMsgClientLogOnResponse() : [A:1:1243043848:19770] 'OK'
+
+
+[2022-03-07 19:20:20] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:20:20] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:20:20] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:20:20] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:20:20] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:20:20] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:20:20] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2022-03-07 19:20:20] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2022-03-07 19:20:22] [0,0] SetSteamID( [A:1:0:0] )
+[2022-03-07 19:20:22] [0,0] Server says 50% of connections should be websockets, we rolled 1 - using WebSockets as default.
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27038) results: 75.0000ms + load 32.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm1-dfw1.cm.steampowered.com:443) results: 73.0000ms + load 32.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm2-dfw1.cm.steampowered.com:27032) results: 71.0000ms + load 30.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm1-dfw1.cm.steampowered.com:27036) results: 70.0000ms + load 29.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm2-dfw1.cm.steampowered.com:27038) results: 69.0000ms + load 30.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm2-dfw1.cm.steampowered.com:27028) results: 67.0000ms + load 30.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm1-dfw1.cm.steampowered.com:27034) results: 65.0000ms + load 27.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:443) results: 44.0000ms + load 42.0000 (283 seconds ago)
+[2022-03-07 19:20:22] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27038) starting...
+[2022-03-07 19:20:22] [0,0] PingWebSocketCM() (cm1-sea1.cm.steampowered.com:27034) starting...
+[2022-03-07 19:20:22] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27034) starting...
+[2022-03-07 19:20:22] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27034) starting...
+[2022-03-07 19:20:23] [0,0] PingWebSocketCM() (cm1-sea1.cm.steampowered.com:27034) results: 78.8484ms + load 17.0000
+[2022-03-07 19:20:23] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27038) results: 81.3220ms + load 15.0000
+[2022-03-07 19:20:23] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27034) results: 76.7715ms + load 14.0000
+[2022-03-07 19:20:23] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) starting...
+[2022-03-07 19:20:23] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27034) results: 74.6615ms + load 14.0000
+[2022-03-07 19:20:23] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) results: 44.6088ms + load 23.0000
+[2022-03-07 19:20:23] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm5-lax1.cm.steampowered.com:27037, WebSocket)
+[2022-03-07 19:20:23] [1,3] ConnectionCompleted() (162.254.195.71:27037, WebSocket) local address (192.168.1.5:60492)
+[2022-03-07 19:20:23] [1,3] RecvMsgClientLogOnResponse() : [A:1:1245750280:19770] 'OK'
+
+
+[2022-03-07 19:52:51] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:52:51] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:52:51] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:52:51] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:52:51] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.5)
+[2022-03-07 19:52:51] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-03-07 19:52:51] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2022-03-07 19:52:51] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2022-03-07 19:52:53] [0,0] SetSteamID( [A:1:0:0] )
+[2022-03-07 19:52:53] [0,0] Server says 50% of connections should be websockets, we rolled 69 - using UDP as default.
+[2022-03-07 19:52:53] [1,2] Connect() starting connection (eNetQOSLevelMedium, 155.133.253.50:27025, UDP)
+[2022-03-07 19:52:54] [1,2] ConnectionCompleted() (162.254.195.71:27018, UDP) local address (0.0.0.0:7778)
+[2022-03-07 19:52:54] [1,2] RecvMsgClientLogOnResponse() : [A:1:1606635520:19770] 'OK'

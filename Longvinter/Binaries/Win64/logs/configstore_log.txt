@@ -7,3 +7,15 @@
 
 [2022-03-07 17:40:58] Loaded store 'install' from 'C:\Users\snowy\Downloads\longvinter-server\Longvinter\Binaries\Win64\config\config.vdf' successfully
 [2022-03-07 17:41:02] Flushed store 'install' to 'C:\Users\snowy\Downloads\longvinter-server\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-03-07 19:15:36] Loaded store 'install' from 'C:\Users\snowy\Downloads\longserver-git\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-03-07 19:15:40] Flushed store 'install' to 'C:\Users\snowy\Downloads\longserver-git\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-03-07 19:20:20] Loaded store 'install' from 'C:\Users\snowy\Downloads\longserver-git\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-03-07 19:20:23] Flushed store 'install' to 'C:\Users\snowy\Downloads\longserver-git\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-03-07 19:52:51] Loaded store 'install' from 'C:\Users\snowy\Downloads\longserver-git\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-03-07 19:52:55] Flushed store 'install' to 'C:\Users\snowy\Downloads\longserver-git\Longvinter\Binaries\Win64\config\config.vdf'
