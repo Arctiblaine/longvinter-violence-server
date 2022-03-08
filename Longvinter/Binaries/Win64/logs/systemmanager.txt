@@ -1,0 +1,8 @@
+
+
+[2022-03-07 17:39:20] Inilializing System Manager
+[2022-03-07 17:39:20] Suspend inhibited
+
+
+[2022-03-07 17:40:58] Inilializing System Manager
+[2022-03-07 17:40:58] Suspend inhibited

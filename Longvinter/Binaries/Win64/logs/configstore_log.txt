@@ -1,0 +1,9 @@
+
+
+[2022-03-07 17:39:20] Failed to read store 'install' from 'C:\Users\snowy\Downloads\longvinter-server\Longvinter\Binaries\Win64\config\config.vdf.tmp'
+[2022-03-07 17:39:20] Flushed store 'install' to 'C:\Users\snowy\Downloads\longvinter-server\Longvinter\Binaries\Win64\config\config.vdf'
+[2022-03-07 17:39:23] Flushed store 'install' to 'C:\Users\snowy\Downloads\longvinter-server\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-03-07 17:40:58] Loaded store 'install' from 'C:\Users\snowy\Downloads\longvinter-server\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-03-07 17:41:02] Flushed store 'install' to 'C:\Users\snowy\Downloads\longvinter-server\Longvinter\Binaries\Win64\config\config.vdf'
